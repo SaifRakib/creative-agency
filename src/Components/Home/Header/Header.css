@@ -1,0 +1,8 @@
+.navbar .navbar-brand img {
+  height: 30px;
+}
+.login {
+  background-color: black;
+  color: white !important;
+  border-radius: 5px;
+}
